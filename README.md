@@ -25,4 +25,6 @@ This README lists the generated subscription configuration files.
 - [itsyebekhe_PSG_mix_cloudflare](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/itsyebekhe_PSG_mix_cloudflare.txt)
 - [itsyebekhe_PSG_trojan_cloudflare](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/itsyebekhe_PSG_trojan_cloudflare.txt)
 - [itsyebekhe_PSG_vless_cloudflare](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/itsyebekhe_PSG_vless_cloudflare.txt)
+- [mahsanet_mci1_cloudflare](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/mahsanet_mci1_cloudflare.txt)
+- [mahsanet_mtn1_cloudflare](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/mahsanet_mtn1_cloudflare.txt)
 - [MahsaNetConfigTopic](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/MahsaNetConfigTopic.txt)
