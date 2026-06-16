@@ -5,7 +5,6 @@ This README lists the generated subscription configuration files.
 ## Available Configs
 
 - [maimengmeng](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/maimengmeng.txt)
-- [maimengmeng_AnyTLS](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/maimengmeng_AnyTLS.txt)
 - [maimengmeng_cloudflare](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/maimengmeng_cloudflare.txt)
 - [roosterkid_v2ray](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/roosterkid_v2ray.txt)
 - [rayan_proxy](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/rayan_proxy.txt)
