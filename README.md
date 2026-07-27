@@ -21,4 +21,3 @@ This README lists the generated subscription configuration files.
 - [10ium_V2ray_HiNVPN_mix_cloudflare](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/10ium_V2ray_HiNVPN_mix_cloudflare.txt)
 - [10ium_CollectorLite_Config_mixed_cloudflare](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/10ium_CollectorLite_Config_mixed_cloudflare.txt)
 - [10ium_Collector_mixed_cloudflare](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/10ium_Collector_mixed_cloudflare.txt)
-- [MahsaNetConfigTopic](https://raw.githubusercontent.com/PENZA84/SubConfigShuffler/main/shuffled_outputs/MahsaNetConfigTopic.txt)
